@@ -1,7 +1,7 @@
 ---
 title: 我的小伙伴们
-keywords: 链接
-description: 云游的小伙伴们
+keywords: 传送门
+description: 看看友链👀
 links: https://www.yunyoujun.cn/friends/links.json
 random: true
 ---
