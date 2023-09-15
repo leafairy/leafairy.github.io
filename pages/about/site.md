@@ -1,7 +1,8 @@
 ---
 title: 关于站点
+icon: i-ri-information-line
 ---
 
-Valaxy + valaxy-theme-yun Demo Site
+# 未解决问题：
 
-- Default Theme: [valaxy-theme-yun](https://github.com/YunYouJun/valaxy/blob/main/packages/valaxy-theme-yun/)
+- 暂时没有
