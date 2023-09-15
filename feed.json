@@ -1,0 +1,25 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "-安安的博客-",
+    "home_page_url": "https://leafairy.github.io/",
+    "feed_url": "https://leafairy.github.io/feed.json",
+    "icon": "https://avatars.githubusercontent.com/u/104565519",
+    "author": {
+        "name": "sukipie",
+        "url": "https://valaxy.site"
+    },
+    "items": [
+        {
+            "id": "",
+            "content_html": "<h2>Valaxy</h2>\n<p>Next Generation Static Blog Framework.</p>\n<p>Write your first post!</p>\n<h2>Usage</h2>\n<p>Modify `valaxy</p>\n",
+            "url": "https://leafairy.github.io/posts/hello-valaxy",
+            "title": "Hello, Valaxy!",
+            "date_modified": "2022-04-01T00:00:00.000Z",
+            "date_published": "2022-04-01T00:00:00.000Z",
+            "author": {
+                "name": "sukipie",
+                "url": "https://valaxy.site"
+            }
+        }
+    ]
+}

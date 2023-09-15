@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>-安安的博客-</title>
+        <link>https://leafairy.github.io/</link>
+        <description></description>
+        <lastBuildDate>Fri, 15 Sep 2023 06:47:41 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <image>
+            <title>-安安的博客-</title>
+            <url>https://avatars.githubusercontent.com/u/104565519</url>
+            <link>https://leafairy.github.io/</link>
+        </image>
+        <copyright>CC BY-NC-SA 4.0 2023 © sukipie</copyright>
+        <atom:link href="https://leafairy.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Hello, Valaxy!]]></title>
+            <link>https://leafairy.github.io/posts/hello-valaxy</link>
+            <guid>https://leafairy.github.io/posts/hello-valaxy</guid>
+            <pubDate>Fri, 01 Apr 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<h2>Valaxy</h2>
+<p>Next Generation Static Blog Framework.</p>
+<p>Write your first post!</p>
+<h2>Usage</h2>
+<p>Modify `valaxy</p>
+]]></content:encoded>
+            <author>i@valaxy.site (sukipie)</author>
+        </item>
+    </channel>
+</rss>
